@@ -64,11 +64,15 @@ This section intentionally highlights how unrealistic or oversimplified data-gen
 
 ### Classification Report Summary
 
+<img width="552" height="216" alt="auc" src="https://github.com/user-attachments/assets/c2c2db72-475a-4a8e-9b0e-95c2d9c3a345" />
+
 - High overall accuracy due to class imbalance
 - Model predicts the majority (non-default) class well
 - Poor recall and precision for the default class
 
 ### ROC–AUC Score
+
+<img width="748" height="552" alt="Screenshot 2026-02-08 144700" src="https://github.com/user-attachments/assets/47912f6c-13e2-4212-b28d-9f2f7302d1ca" />
 
 - **AUC ≈ 0.43**
 - Indicates performance worse than random guessing
